@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923985927901",
+    "project_id": "engaged-proxy-158919"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923985927901:android:77f2f5a669bf3df2",
+        "android_client_info": {
+          "package_name": "com.chethan.googledrivedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923985927901-9d8bm00rabuugvpgjtthvi1qvn2a23mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chethan.googledrivedemo",
+            "certificate_hash": "84BD5D59742D7E01D7FB183576173898EFF8E83C"
+          }
+        },
+        {
+          "client_id": "923985927901-65n50vb84bbjjoat94is3rs158t11uub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4vA8NG8gDX3x2IMYOaxVAohNSBWQ6y14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
